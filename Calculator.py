@@ -28,6 +28,7 @@ while True:
         arith(x)
     else:
         print("Exiting the Calculator python project")
+        print("Thank you for visiting")
         break
 
     
