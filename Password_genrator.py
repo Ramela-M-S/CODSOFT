@@ -34,3 +34,4 @@ elif user==2:
     print(sp)
 else:
     print("entered wrong choice")
+print("Exiting...Thank you for visiting")
