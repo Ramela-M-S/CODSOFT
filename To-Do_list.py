@@ -55,4 +55,5 @@ while True:
             for i in lst:
                 print(i)
         print("Exiting...the todo list")
+        print("Thank you for visiting")
         break
