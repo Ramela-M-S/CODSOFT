@@ -19,6 +19,7 @@ for i in range(s):
     x=random.choice(sym)
     passwd+=x
 
+print("Welcome to To-Do list python project")
 print("1 for easy rememberable password")
 print("2 for strong password")
 
