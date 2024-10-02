@@ -56,4 +56,5 @@ while True:
         else:
             print("Computer won the game")
         print("Exiting... rock_paper_scissors python project")
+        print("Thank you for visiting")
         break
