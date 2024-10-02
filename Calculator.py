@@ -27,7 +27,7 @@ while True:
     if x>=0 and x<=4:
         arith(x)
     else:
-        print("Exiting the Calculator python project")
+        print("Exiting... calculator python project")
         print("Thank you for visiting")
         break
 
