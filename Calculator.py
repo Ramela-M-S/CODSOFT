@@ -1,3 +1,4 @@
+print("Welcome to Calculator python project")
 def arith(y):
     a=int(input("enter a:"))
     b=int(input("enter b:"))
@@ -16,7 +17,7 @@ def arith(y):
 
 
 while True:
-    print("Welcome to Calculator python project")
+    
     print("0 - For addition")
     print("1 - For subraction")
     print("2 - For multiplication")

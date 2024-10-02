@@ -1,3 +1,4 @@
+print("Welcome to To-Do list python project")
 lst=[]
 def todo(y):
     if y==0:
@@ -37,7 +38,7 @@ def todo(y):
 
  
 while True:
-    print("Welcome to To-Do list python project")
+    
     print("0 - To create tasks")
     print("1 - To track tasks")
     print("2 - To update")
